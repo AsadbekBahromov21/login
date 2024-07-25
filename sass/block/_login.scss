@@ -1,0 +1,102 @@
+.header__fecbook{
+    margin-top: 150px;
+    width: 300px;
+    border-radius: 10px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 50px auto;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.input-username,.input-password{
+    padding: 9px;
+    border-radius: 4px;
+    outline: none;
+    border:  1px solid #eee;
+}
+.btn{
+    padding: 8px;
+    font-size: 16px;
+    background: #0866FF;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #fff;
+}
+.activ{
+    color: inherit;
+    text-decoration: inherit;
+    text-align: center;
+    color: #0866FF;
+    font-size: 16px;
+}
+.hr{
+    width: 100%;
+}
+.button{
+    display: flex;
+  margin: auto;
+  padding: 8px;
+    width: 180px;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    background: #42B72A;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+}
+.btr{
+    display: flex;
+    margin: 100px auto;
+    padding: 11px 33px;
+    //   width: 180px;
+      align-items: center;
+      justify-content: center;
+      outline: none;
+      background: #42B72A;
+      font-size: 16px;
+      font-weight: 700;
+      color: #fff;
+      border-radius: 4px;
+      border: none;
+}
+.card{
+    width: 300px;
+    border-radius: 10px;
+    padding: 15px 20px;
+    // height: 400px;
+    background: #ddd;
+    border: 1px solid #ddd;
+    margin-bottom: 50px;
+}
+.images{
+    width: 100%;
+}
+h3{
+    font-size: 24px;
+    color: #0009;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.gen{
+    font-size: 17px;
+    color: #0008;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+    font-weight: 600;
+    color: #0007;
+}
